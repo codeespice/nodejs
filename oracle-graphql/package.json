@@ -1,0 +1,24 @@
+{
+  "name": "oracle-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.5",
+    "graphql-tools": "^4.0.5",
+    "join-monster": "^2.1.0",
+    "morgan": "^1.9.1",
+    "oracledb": "^4.0.1"
+  }
+}
