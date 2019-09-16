@@ -12,4 +12,4 @@ const dbConfig = {
 
 2. npm install
 3. node .
-4. open browser , enter localhost:3031
+4. open browser , enter localhost:3031/graphql
