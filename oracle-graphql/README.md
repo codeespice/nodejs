@@ -2,9 +2,9 @@
 1. Modify services/database.js as shown below
 
 const dbConfig = {
-  user: '<username>',
-  password: '<password>',
-  connectString : "localhost:1521/<sid>",
+  user: 'USERNAME',
+  password: 'PASSWORD',
+  connectString : "localhost:1521/SID",
   poolMin: 10,
   poolMax: 10,
   poolIncrement: 0
